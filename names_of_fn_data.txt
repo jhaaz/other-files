@@ -1,0 +1,4 @@
+#function for labour selection  
+labour_select(input_pincode,no_of_req,req_skill):
+	return labour_data
+ 
