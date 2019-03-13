@@ -1,4 +1,9 @@
 #function for labour selection  
 labour_select(input_pincode,no_of_req,req_skill):
 	return labour_data
+
+#distance database name 
+TABLE pin_dis_data
+COLUMN one_pin PRIMARY KEY , nearer_pins(a string or list)
+
  
